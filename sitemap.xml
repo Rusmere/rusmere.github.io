@@ -2,6 +2,41 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://pythonlover3.github.io/friends/index.html</loc>
+    
+    <lastmod>2021-03-28</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://pythonlover3.github.io/about/index.html</loc>
+    
+    <lastmod>2021-03-28</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://pythonlover3.github.io/404/index.html</loc>
+    
+    <lastmod>2021-03-28</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://pythonlover3.github.io/categories/index.html</loc>
+    
+    <lastmod>2021-03-28</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://pythonlover3.github.io/tags/index.html</loc>
+    
+    <lastmod>2021-03-28</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://pythonlover3.github.io/2021/02/14/AKIOI/</loc>
     
     <lastmod>2021-02-14</lastmod>
